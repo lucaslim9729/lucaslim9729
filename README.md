@@ -10,7 +10,6 @@ Senior Full-Stack Developer
 
 I'm a Full Stack Developer with a strong background in AI/ML and Data Science, passionate about building smart, scalable applications. I work with React, Node.js, Python, and Docker, and I love exploring NLP, Image Recognition Models, and the world of Crypto. 🚀 Excited about exploring new tech opportunities that keep me up at night!
 
-* 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [MyPortfolio](https://portofolio-next-mu.vercel.app/)
 * ✉️  You can contact me at [lucaslim9729@gmail.com](mailto:jincekang@gmail.com)
 
