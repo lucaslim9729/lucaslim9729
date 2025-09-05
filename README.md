@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Full-Stack Developer
 -----------------
 
-I'm a Full Stack Developer with a strong background in AI/ML and Data Science, passionate about building smart, scalable applications. I work with React, Node.js, Python, and Docker, and I love exploring NLP, Image Recognition Models, and the world of Crypto. 🚀 Excited about exploring new tech opportunities that keep me up at night!
+Results-oriented Project Manager and Full-Stack Developer with 10+ years of experience delivering complex IT and software solutions. Proven ability to manage multi-million-dollar project portfolios, lead cross-functional teams, and drive operational efficiency through innovative technologies. Skilled in web and cloud development, backend systems, API integration, and agile project delivery. Adept at solving technical challenges, mentoring teams, and ensuring high-quality deliverables.!
 
 * 🖥️  See my portfolio at [MyPortfolio](https://portofolio-five-khaki-65.vercel.app/)
 * ✉️  You can contact me at [lucaslim9729@gmail.com](mailto:jincekang@gmail.com)
